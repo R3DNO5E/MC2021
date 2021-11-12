@@ -16,6 +16,11 @@
 * [#6.3 User名前空間](6.3.md)
 
 事前課題は#6.3までです．お疲れ様でした．
+## 当日資料
+[スライド](https://docs.google.com/presentation/d/18EInngplJW40GOYPuRxEKgmXzpHpylUTpEVZX_cf6do/edit?usp=sharing)
+[slido](https://app.sli.do/event/zml6z6pw)
+[演習の答え](ans.md)
+[sysroot](https://minicamp-online-2021.s3.us-west-002.backblazeb2.com/sysroot-debian-bullseye.tar.xz)
 ## 注意
 * この教材にはいくつか外部リンクが含まれている可能性がありますが，それらのリンクの有効性はキャンプ終了後は担保しません．
 * キャンプで使用するために用意したダウンロード可能なファイルについては，キャンプ終了後1ヶ月はダウンロード可能なように公開を続けますが，その後は削除する可能性があります．必要な場合は自身で保存しておいてください．
