@@ -11,4 +11,8 @@ sudo docker build -t ctf-q4:0.01 .
 ```
 sudo docker run -d --privileged -p 13020:22 ctf-q4:0.01
 ```
-localhostのポート13020にsshすればログインできます．
+`localhost`のポート`13020`にsshすればログインできます．
+ユーザ名は`mc`，パスワードは`mc2021-online-ctf`です．
+```
+ssh mc@localhost -p 13020
+```
