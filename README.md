@@ -22,6 +22,9 @@
 * [演習の答え](ans.md)
 * [sysroot](https://minicamp-online-2021.s3.us-west-002.backblazeb2.com/sysroot-debian-bullseye.tar.xz)
 
+## 修了試験
+* [問題サーバ(Docker)](https://github.com/R3DNO5E/MC2021/raw/main/q4.tar.xz)
+* [解答]()
 ## 注意
 * この教材にはいくつか外部リンクが含まれている可能性がありますが，それらのリンクの有効性はキャンプ終了後は担保しません．
 * キャンプで使用するために用意したダウンロード可能なファイルについては，キャンプ終了後1ヶ月はダウンロード可能なように公開を続けますが，その後は削除する可能性があります．必要な場合は自身で保存しておいてください．
