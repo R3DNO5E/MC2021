@@ -17,7 +17,7 @@
 
 事前課題は#6.3までです．お疲れ様でした．
 ## 当日資料
-* [スライド](https://docs.google.com/presentation/d/18EInngplJW40GOYPuRxEKgmXzpHpylUTpEVZX_cf6do/edit?usp=sharing)
+* [スライド](https://github.com/R3DNO5E/MC2021/raw/main/slide.pdf)
 * [slido](https://app.sli.do/event/zml6z6pw)
 * [演習の答え](ans.md)
 * [sysroot](https://minicamp-online-2021.s3.us-west-002.backblazeb2.com/sysroot-debian-bullseye.tar.xz)
