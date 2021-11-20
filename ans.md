@@ -209,7 +209,7 @@ int start_child() {
                        MAP_PRIVATE | MAP_ANONYMOUS | MAP_GROWSDOWN | MAP_STACK, -1, 0);
     if (stack == MAP_FAILED) return -1;
     pid_t child = clone((int (*)(void *)) isolated_child, stack + STACK_SIZE,
-                        SIGCHLD | CLONE_NEWPID | CLONE_NEWUSER | CLONE_NEWNET, &args);
+                        SIGCHLD | CLONE_NEWPID | CLONE_NEWUSER | CLONE_NEWNET | CLONE_NEWNS, &args);
     if (child == -1) return -1;
     if (parent_write_ug_map(child) == -1) return -1;
     if (parent_install_network(child) == -1) return -1;
