@@ -3,13 +3,13 @@
 問題サーバにログインすると以下のようなREADMEがあります．
 ```
 execute file /try_running_me and see what happens!
-googling "unshare" may helps.
+googling "unshare" might help.
 ```
 ## ファイルを実行してみる
 ルートディレクトリの`/try_running_me`を実行してみると，以下のように出力されます．
 ```
 oops!
-run this binary with setting 0-th argument to "" (empty string)
+run this binary with setting 0-th argument as "" (empty string)
 ```
 ## execveを使って指定ファイルを実行
 以下のようなコードを記述，コンパイルして，第一引数を空文字列にしてファイルを実行します．
